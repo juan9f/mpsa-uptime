@@ -8,7 +8,6 @@ sites:
     url: 190.210.205.89
     port: 53
   - name: GV
-    check: "tcp-ping"
     url: http://rh03.rhconsult.com.ar/
   - name: Campus
     url: https://campus.manpetrolfse.com.ar/
