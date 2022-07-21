@@ -29,7 +29,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /mpsa-uptime
-  logoUrl: https://github.com/juan9f/mpsa-uptime/blob/master/assets/logo%20mpsa%20fse.png
+  logoUrl: https://raw.githubusercontent.com/juan9f/mpsa-uptime/master/assets/logo%20mpsa%20fse.png
   name: MPSA Estado de los Servicios
   introTitle: "**Manpetrol FSE**"
   introMessage: Estado en tiempo real de los servicios corporativos en la nube.
