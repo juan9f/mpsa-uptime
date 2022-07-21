@@ -23,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/rh03.rhconsult.com.ar",
     "slug": "gv",
     "status": "up",
-    "uptime": "1.37%",
-    "uptimeDay": "1.37%",
-    "uptimeWeek": "1.37%",
-    "uptimeMonth": "1.37%",
-    "uptimeYear": "1.37%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 939,
     "timeDay": 939,
     "timeWeek": 939,
     "timeMonth": 939,
     "timeYear": 939,
-    "dailyMinutesDown": {
-      "2022-07-21": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Campus",
