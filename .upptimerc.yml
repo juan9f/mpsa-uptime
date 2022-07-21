@@ -9,14 +9,20 @@ sites:
     port: 53
   - name: GV
     url: http://rh03.rhconsult.com.ar/
-  - name: Campus
+  - name: Campus Manpetrol FSE
     url: https://campus.manpetrolfse.com.ar/
   - name: PDM (Success Factors)
     url: https://performancemanager5.successfactors.eu/login#/login
   - name: Tu Legajo
     url: https://app.tulegajo.com/login.htm
-  - name: Portal empleo
+  - name: Portal Empleo
     url: https://manpetrol.hiringroom.com/jobs/
+  - name: Web Mail Manpetrol
+    url: https://webmail.manpetrolsa.com.ar/
+  - name: Web Mail Field Services
+    url: https://webmail.fsesa.com.ar/
+  - name: PAE (SAP Contratistas)
+    url: https://agp.pan-energy.com/irj/portal
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
