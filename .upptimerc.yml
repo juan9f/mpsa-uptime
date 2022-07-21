@@ -23,10 +23,6 @@ sites:
     url: https://www.office.com/
   - name: PAE (SAP Contratistas)
     url: https://agp.pan-energy.com/irj/portal
-  - name: Patagon - Internet
-    check: "tcp-ping"
-    url: 200.70.31.131
-    port: 8291
     
 
 status-website:
