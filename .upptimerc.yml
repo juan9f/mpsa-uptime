@@ -26,7 +26,7 @@ sites:
   - name: Patagon - Internet
     check: "tcp-ping"
     url: 200.70.31.131
-    port: 22
+    port: 8291
     
 
 status-website:
