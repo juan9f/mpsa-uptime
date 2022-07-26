@@ -27,6 +27,10 @@ sites:
     check: "tcp-ping"
     url: 200.70.31.131
     port: 1723
+  - name: Esparta - Internet
+    check: "tcp-ping"
+    url: 200.24.255.240
+    port: 1194
     
 
 status-website:
