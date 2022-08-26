@@ -31,7 +31,7 @@
     "time": 654,
     "timeDay": 624,
     "timeWeek": 633,
-    "timeMonth": 651,
+    "timeMonth": 649,
     "timeYear": 654,
     "dailyMinutesDown": {
       "2022-08-21": 18
@@ -51,7 +51,7 @@
     "time": 601,
     "timeDay": 687,
     "timeWeek": 589,
-    "timeMonth": 614,
+    "timeMonth": 610,
     "timeYear": 601,
     "dailyMinutesDown": {}
   },
@@ -60,19 +60,19 @@
     "url": "https://performancemanager5.successfactors.eu/login#/login",
     "icon": "https://favicons.githubusercontent.com/performancemanager5.successfactors.eu",
     "slug": "pdm-success-factors",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1489,
-    "timeDay": 11617,
-    "timeWeek": 5041,
-    "timeMonth": 1945,
-    "timeYear": 1489,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "96.91%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.91%",
+    "time": 1482,
+    "timeDay": 9512,
+    "timeWeek": 4682,
+    "timeMonth": 1958,
+    "timeYear": 1482,
     "dailyMinutesDown": {
-      "2022-08-26": 4
+      "2022-08-26": 45
     }
   },
   {
@@ -89,7 +89,7 @@
     "time": 298,
     "timeDay": 199,
     "timeWeek": 310,
-    "timeMonth": 299,
+    "timeMonth": 298,
     "timeYear": 298,
     "dailyMinutesDown": {
       "2022-08-11": 21
@@ -109,7 +109,7 @@
     "time": 325,
     "timeDay": 501,
     "timeWeek": 270,
-    "timeMonth": 339,
+    "timeMonth": 316,
     "timeYear": 325,
     "dailyMinutesDown": {}
   },
@@ -127,7 +127,7 @@
     "time": 101,
     "timeDay": 261,
     "timeWeek": 133,
-    "timeMonth": 106,
+    "timeMonth": 105,
     "timeYear": 101,
     "dailyMinutesDown": {}
   },
@@ -163,7 +163,7 @@
     "time": 1104,
     "timeDay": 999,
     "timeWeek": 1067,
-    "timeMonth": 1121,
+    "timeMonth": 1124,
     "timeYear": 1104,
     "dailyMinutesDown": {
       "2022-08-23": 52,
