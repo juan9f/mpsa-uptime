@@ -4,19 +4,19 @@
     "url": "190.210.205.89",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "itris",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.79%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
     "time": 168,
-    "timeDay": 142,
-    "timeWeek": 153,
+    "timeDay": 160,
+    "timeWeek": 156,
     "timeMonth": 164,
     "timeYear": 168,
     "dailyMinutesDown": {
-      "2022-11-04": 3
+      "2022-11-04": 32
     }
   },
   {
